@@ -6,6 +6,10 @@
   "icon": "icon.png",
   "author": "konfuze",
   "license": "MIT",
+  "categories": [
+    "Fun",
+    "Communication"
+  ],
   "commands": [
     {
       "name": "search-emoticons",
